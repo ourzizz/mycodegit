@@ -7,3 +7,4 @@ Git has a mutable index called stage
 hello (19/11/15 17:44:38) 
 >>>>>>> cacd879381ab994ac8708e5295b46ee506fadf81
 分支测试
+conflict test
